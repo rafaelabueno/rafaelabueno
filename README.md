@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaelabueno
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in data science, data analysis, machine learning and web development.
+- 🌱 I’m currently learning Python and your libraries.
 - 📫 How to reach me rafaelaxbueno@gmail.com
 
 <!---
