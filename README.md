@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafaelabueno
+- 👋 Hi, I’m Rafaela Bueno de Oliveira.
 - 👀 I’m interested in data science, data analysis, machine learning and web development.
 - 🌱 I’m currently learning Python and your libraries.
 - 📫 How to reach me rafaelaxbueno@gmail.com
