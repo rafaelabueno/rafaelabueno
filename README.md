@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafaela Bueno de Oliveira.
-- 👀 I’m interested in data science, data analysis, machine learning and web development.
+- 👀 I’m interested in data science, data analysis, machine learning and artificial intelligence.
 - 🌱 I’m currently learning Python and your libraries and Data Science.
 - 📫 How to reach me rafaelaxbueno@gmail.com
 
